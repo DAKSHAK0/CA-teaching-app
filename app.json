@@ -7,6 +7,15 @@
     "userInterfaceStyle": "dark",
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "71086759-609e-418c-a779-cac9c36ad75c"
+      }
+    },
+    "owner": "sgfhdf"
   }
 }
