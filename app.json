@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CA Prep OS",
+    "slug": "ca-prep-os",
+    "scheme": "caprepos",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
